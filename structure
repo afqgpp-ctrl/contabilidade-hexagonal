@@ -1,0 +1,10 @@
+/src
+    /domain
+    /application
+    /adapters
+        /in
+        /out
+    /infrastructure
+/tests
+/docs
+/.github
